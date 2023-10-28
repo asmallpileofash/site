@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>roseweood.spacE</title>
+    <link>https://rosewood.space/</link>
+    <description>Recent content on roseweood.spacE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rosewood.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project</title>
+      <link>https://rosewood.space/project/</link>
+      <pubDate>Fri, 27 Oct 2023 23:16:30 -0700</pubDate>
+      
+      <guid>https://rosewood.space/project/</guid>
+      <description>This is a project I hope it shows up :)</description>
+    </item>
+    
+    <item>
+      <title>Thing</title>
+      <link>https://rosewood.space/thing/</link>
+      <pubDate>Fri, 27 Oct 2023 23:14:54 -0700</pubDate>
+      
+      <guid>https://rosewood.space/thing/</guid>
+      <description>AAAA </description>
+    </item>
+    
   </channel>
 </rss>

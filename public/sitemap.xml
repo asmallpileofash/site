@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://rosewood.space/project/</loc>
+    <lastmod>2023-10-27T23:16:30-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://rosewood.space/thing/</loc>
+    <lastmod>2023-10-27T23:14:54-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://rosewood.space/categories/</loc>
+  </url><url>
+    <loc>https://rosewood.space/</loc>
+  </url><url>
+    <loc>https://rosewood.space/tags/</loc>
   </url>
 </urlset>
