@@ -19,4 +19,4 @@ As mentioned above, the Nicoyan diet is very different compared to the average r
 A recipe that fits into the Nicoyan diet could be pizza with whole grains, as a quarter of the diet is grain, and a quarter is dairy. You also can get fruit from tomatoes, and protien from your pizza toppings.
 
 Picture:
-![Image](/static/pizza.png)
+![Image](pizza.png)
