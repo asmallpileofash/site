@@ -24,4 +24,5 @@ Picture:
 ## Citations
 
 *Nicoya, Costa Rica - Blue Zones*, https://www.bluezones.com/explorations/nicoya-costa-rica.
+
 *TODAY Visits ‘Blue Zone’ Of Costa Rica Where People Live To 100*, TODAY, https://yewtu.be/watch?v=V8Opil6j-ac. 
