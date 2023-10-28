@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>roseweood.spacE</title>
+    <title>rosewood.space</title>
     <link>https://rosewood.space/</link>
-    <description>Recent content on roseweood.spacE</description>
+    <description>Recent content on rosewood.space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://rosewood.space/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Project</title>
-      <link>https://rosewood.space/project/</link>
-      <pubDate>Fri, 27 Oct 2023 23:16:30 -0700</pubDate>
-      
-      <guid>https://rosewood.space/project/</guid>
-      <description>This is a project I hope it shows up :)</description>
-    </item>
-    
     <item>
       <title>Thing</title>
       <link>https://rosewood.space/thing/</link>
@@ -22,6 +13,16 @@
       
       <guid>https://rosewood.space/thing/</guid>
       <description>AAAA </description>
+    </item>
+    
+    <item>
+      <title>Longevity in Nicoya</title>
+      <link>https://rosewood.space/project/</link>
+      <pubDate>Wed, 25 Oct 2023 21:03:31 -0700</pubDate>
+      
+      <guid>https://rosewood.space/project/</guid>
+      <description>Nicoya is a district in the Guanacaste region of Costa Rica. It is famous for being one of the six world wide bluezones. A bluezone is a place on earth that has a significantly higher average life span compared to the rest of the world.
+Die Centarians in Nicoya eat a diet that is distinctly different from a typical western diet. In the United States of America. People in Nicoya get most of the carbohydrates from grains, vegetables, and fruit, along with eating a large amount of dairy.</description>
     </item>
     
   </channel>
