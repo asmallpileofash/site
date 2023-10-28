@@ -6,7 +6,7 @@ draft = false
 
 Nicoya is a district in the Guanacaste region of Costa Rica. It is famous for being one of the six world wide bluezones. A bluezone is a place on earth that has a significantly higher average life span compared to the rest of the world.
 
-## Die
+## Diet
 
 Centarians in Nicoya eat a diet that is distinctly different from a typical western diet. In the United States of America. People in Nicoya get most of the carbohydrates from grains, vegetables, and fruit, along with eating a large amount of dairy. One centarian who is still active and sharp eats a breakfast of rice, beans, tortillas, and black coffee everyday. Tortias are hand made in Nicoya with whole corn.
 
