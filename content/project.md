@@ -12,4 +12,4 @@ Centarians in Nicoya eat a diet that is distinctly different from a typical west
 
 ## Comparison
 
-As mentioned above, the Nicoyan diet is very different compared to the average resident of the United States of America. Some reasons
+As mentioned above, the Nicoyan diet is very different compared to the average resident of the United States of America. Some examples of this are the differnces of views on some foods. The breakfast mentioned above might be seen as unhealth in the United States of America, but obviously, it is quite healthy. Another example of the differences between these diets is the consumption of meat or fish. In the US, there is a large culture of eating meat, 
