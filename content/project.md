@@ -20,3 +20,8 @@ A recipe that fits into the Nicoyan diet could be pizza with whole grains, as a 
 
 Picture:
 ![Image](/pizza.png)
+
+## Citations
+
+*Nicoya, Costa Rica - Blue Zones*, www.bluezones.com/explorations/nicoya-costa-rica.
+*TODAY Visits ‘Blue Zone’ Of Costa Rica Where People Live To 100*, TODAY, yewtu.be/watch?v=V8Opil6j-ac. 
